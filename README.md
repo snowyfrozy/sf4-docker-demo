@@ -9,3 +9,6 @@ Run :
 
 ``` docker-compose up -d ```
 
+``` docker exec -it -u dev sf4_php bash ```
+
+``` composer install  ```
